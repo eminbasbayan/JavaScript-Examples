@@ -9,9 +9,6 @@ btn.addEventListener("click", function(){
 })
 
 
-
-
-
 closeBtn.addEventListener("click", function(){
     alert.classList.remove("show");
     alert.classList.add("hide");
